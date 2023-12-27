@@ -5,8 +5,10 @@
 
 // eclipse 내부에 git GUI 플러그인
 // 각자의 개인 컴퓨터에 자원(파일) 기록
+// local repository 생성
+
 public class Main {
 	public static void main(String[] args) {
-
+		System.out.println("헬로 월드");
 	}
 }
